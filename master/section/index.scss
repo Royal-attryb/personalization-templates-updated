@@ -1,0 +1,17 @@
+@import "../../components/carousel/index.scss";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section-wrapper {
+    margin: 0 auto;
+    width: 500px;
+    border: 1px solid red;
+}
+
+.section-title, .section-subtitle {
+    text-align: center;
+}

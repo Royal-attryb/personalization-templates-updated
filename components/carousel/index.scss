@@ -1,0 +1,18 @@
+@import "../product-card/index.scss";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-wrapper {
+    display: flex;
+    overflow-x: scroll;
+    scrollbar-width: none;
+    scroll-snap-type: x mandatory;
+}
+
+.product-card-wrapper {
+    scroll-snap-align: start;
+}

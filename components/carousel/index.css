@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+.product-card-wrapper {
+  background-color: yellow;
+}
+
+.card-price-wrapper {
+  display: flex;
+  gap: 10px;
+}
+
+.strikethrough-price {
+  text-decoration: line-through;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.carousel-wrapper {
+  display: flex;
+  overflow-x: scroll;
+  scrollbar-width: none;
+  scroll-snap-type: x mandatory;
+}
+
+.product-card-wrapper {
+  scroll-snap-align: start;
+}/*# sourceMappingURL=index.css.map */

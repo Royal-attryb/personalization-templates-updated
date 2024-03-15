@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+.product-card-wrapper {
+  background-color: yellow;
+}
+
+.card-price-wrapper {
+  display: flex;
+  gap: 10px;
+}
+
+.strikethrough-price {
+  text-decoration: line-through;
+}/*# sourceMappingURL=index.css.map */
